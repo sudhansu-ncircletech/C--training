@@ -1,0 +1,14 @@
+D:\C# training\GenericAssignment\bin\Debug\net8.0\GenericAssignment.exe
+D:\C# training\GenericAssignment\bin\Debug\net8.0\GenericAssignment.deps.json
+D:\C# training\GenericAssignment\bin\Debug\net8.0\GenericAssignment.runtimeconfig.json
+D:\C# training\GenericAssignment\bin\Debug\net8.0\GenericAssignment.dll
+D:\C# training\GenericAssignment\bin\Debug\net8.0\GenericAssignment.pdb
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.AssemblyInfoInputs.cache
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.AssemblyInfo.cs
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.csproj.CoreCompileInputs.cache
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.dll
+D:\C# training\GenericAssignment\obj\Debug\net8.0\refint\GenericAssignment.dll
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.pdb
+D:\C# training\GenericAssignment\obj\Debug\net8.0\GenericAssignment.genruntimeconfig.cache
+D:\C# training\GenericAssignment\obj\Debug\net8.0\ref\GenericAssignment.dll

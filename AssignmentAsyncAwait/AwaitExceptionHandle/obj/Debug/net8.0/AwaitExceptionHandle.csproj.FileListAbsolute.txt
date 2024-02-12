@@ -1,0 +1,14 @@
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\bin\Debug\net8.0\AwaitExceptionHandle.exe
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\bin\Debug\net8.0\AwaitExceptionHandle.deps.json
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\bin\Debug\net8.0\AwaitExceptionHandle.runtimeconfig.json
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\bin\Debug\net8.0\AwaitExceptionHandle.dll
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\bin\Debug\net8.0\AwaitExceptionHandle.pdb
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.AssemblyInfoInputs.cache
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.AssemblyInfo.cs
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.csproj.CoreCompileInputs.cache
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.dll
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\refint\AwaitExceptionHandle.dll
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.pdb
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\AwaitExceptionHandle.genruntimeconfig.cache
+D:\C# training\AssignmentAsyncAwait\AwaitExceptionHandle\obj\Debug\net8.0\ref\AwaitExceptionHandle.dll

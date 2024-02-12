@@ -1,0 +1,14 @@
+D:\C# training\SingleDelegate\bin\Debug\net8.0\SingleDelegate.exe
+D:\C# training\SingleDelegate\bin\Debug\net8.0\SingleDelegate.deps.json
+D:\C# training\SingleDelegate\bin\Debug\net8.0\SingleDelegate.runtimeconfig.json
+D:\C# training\SingleDelegate\bin\Debug\net8.0\SingleDelegate.dll
+D:\C# training\SingleDelegate\bin\Debug\net8.0\SingleDelegate.pdb
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.AssemblyInfoInputs.cache
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.AssemblyInfo.cs
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.csproj.CoreCompileInputs.cache
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.dll
+D:\C# training\SingleDelegate\obj\Debug\net8.0\refint\SingleDelegate.dll
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.pdb
+D:\C# training\SingleDelegate\obj\Debug\net8.0\SingleDelegate.genruntimeconfig.cache
+D:\C# training\SingleDelegate\obj\Debug\net8.0\ref\SingleDelegate.dll

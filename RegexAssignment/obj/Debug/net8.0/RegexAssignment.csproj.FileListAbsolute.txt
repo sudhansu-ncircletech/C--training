@@ -1,0 +1,14 @@
+D:\C# training\RegexAssignment\bin\Debug\net8.0\RegexAssignment.exe
+D:\C# training\RegexAssignment\bin\Debug\net8.0\RegexAssignment.deps.json
+D:\C# training\RegexAssignment\bin\Debug\net8.0\RegexAssignment.runtimeconfig.json
+D:\C# training\RegexAssignment\bin\Debug\net8.0\RegexAssignment.dll
+D:\C# training\RegexAssignment\bin\Debug\net8.0\RegexAssignment.pdb
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.AssemblyInfoInputs.cache
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.AssemblyInfo.cs
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.csproj.CoreCompileInputs.cache
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.dll
+D:\C# training\RegexAssignment\obj\Debug\net8.0\refint\RegexAssignment.dll
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.pdb
+D:\C# training\RegexAssignment\obj\Debug\net8.0\RegexAssignment.genruntimeconfig.cache
+D:\C# training\RegexAssignment\obj\Debug\net8.0\ref\RegexAssignment.dll

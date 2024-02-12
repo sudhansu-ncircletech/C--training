@@ -1,0 +1,17 @@
+D:\C# training\Assigment-1\bin\Debug\net8.0\Assigment-1.exe
+D:\C# training\Assigment-1\bin\Debug\net8.0\Assigment-1.deps.json
+D:\C# training\Assigment-1\bin\Debug\net8.0\Assigment-1.runtimeconfig.json
+D:\C# training\Assigment-1\bin\Debug\net8.0\Assigment-1.dll
+D:\C# training\Assigment-1\bin\Debug\net8.0\Assigment-1.pdb
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.AssemblyInfoInputs.cache
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.AssemblyInfo.cs
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.csproj.CoreCompileInputs.cache
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.dll
+D:\C# training\Assigment-1\obj\Debug\net8.0\refint\Assigment-1.dll
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.pdb
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.genruntimeconfig.cache
+D:\C# training\Assigment-1\obj\Debug\net8.0\ref\Assigment-1.dll
+D:\C# training\Assigment-1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.csproj.AssemblyReference.cache
+D:\C# training\Assigment-1\obj\Debug\net8.0\Assigment-1.csproj.CopyComplete

@@ -1,0 +1,14 @@
+D:\C# training\MatrixOperation\bin\Debug\net8.0\MatrixOperation.exe
+D:\C# training\MatrixOperation\bin\Debug\net8.0\MatrixOperation.deps.json
+D:\C# training\MatrixOperation\bin\Debug\net8.0\MatrixOperation.runtimeconfig.json
+D:\C# training\MatrixOperation\bin\Debug\net8.0\MatrixOperation.dll
+D:\C# training\MatrixOperation\bin\Debug\net8.0\MatrixOperation.pdb
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.AssemblyInfoInputs.cache
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.AssemblyInfo.cs
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.csproj.CoreCompileInputs.cache
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.dll
+D:\C# training\MatrixOperation\obj\Debug\net8.0\refint\MatrixOperation.dll
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.pdb
+D:\C# training\MatrixOperation\obj\Debug\net8.0\MatrixOperation.genruntimeconfig.cache
+D:\C# training\MatrixOperation\obj\Debug\net8.0\ref\MatrixOperation.dll

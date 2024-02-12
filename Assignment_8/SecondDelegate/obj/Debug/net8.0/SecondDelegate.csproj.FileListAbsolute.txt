@@ -1,0 +1,14 @@
+D:\C# training\SecondDelegate\bin\Debug\net8.0\SecondDelegate.exe
+D:\C# training\SecondDelegate\bin\Debug\net8.0\SecondDelegate.deps.json
+D:\C# training\SecondDelegate\bin\Debug\net8.0\SecondDelegate.runtimeconfig.json
+D:\C# training\SecondDelegate\bin\Debug\net8.0\SecondDelegate.dll
+D:\C# training\SecondDelegate\bin\Debug\net8.0\SecondDelegate.pdb
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.AssemblyInfoInputs.cache
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.AssemblyInfo.cs
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.csproj.CoreCompileInputs.cache
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.dll
+D:\C# training\SecondDelegate\obj\Debug\net8.0\refint\SecondDelegate.dll
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.pdb
+D:\C# training\SecondDelegate\obj\Debug\net8.0\SecondDelegate.genruntimeconfig.cache
+D:\C# training\SecondDelegate\obj\Debug\net8.0\ref\SecondDelegate.dll

@@ -1,0 +1,14 @@
+D:\C# training\MultiThread\bin\Debug\net8.0\MultiThread.exe
+D:\C# training\MultiThread\bin\Debug\net8.0\MultiThread.deps.json
+D:\C# training\MultiThread\bin\Debug\net8.0\MultiThread.runtimeconfig.json
+D:\C# training\MultiThread\bin\Debug\net8.0\MultiThread.dll
+D:\C# training\MultiThread\bin\Debug\net8.0\MultiThread.pdb
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.AssemblyInfoInputs.cache
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.AssemblyInfo.cs
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.csproj.CoreCompileInputs.cache
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.dll
+D:\C# training\MultiThread\obj\Debug\net8.0\refint\MultiThread.dll
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.pdb
+D:\C# training\MultiThread\obj\Debug\net8.0\MultiThread.genruntimeconfig.cache
+D:\C# training\MultiThread\obj\Debug\net8.0\ref\MultiThread.dll
